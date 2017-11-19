@@ -3,3 +3,7 @@
 git clone https://github.com/heroku/node-js-getting-started.git
 rename node-js-getting-started.git blog-api-node-app
 
+> git status
+> git add . 
+> git remote set-url origin https://github.com/bjsmarts-beimar/blog-api-node-app.git
+> git push origin master
