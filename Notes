@@ -1,0 +1,5 @@
+
+
+git clone https://github.com/heroku/node-js-getting-started.git
+rename node-js-getting-started.git blog-api-node-app
+
